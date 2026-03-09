@@ -49,7 +49,7 @@ The system also detects incorrect posture and displays feedback such as:
 - Raise Hand Higher! when the hand is not lifted enough
 
 The counter increases until the target number of repetitions is reached.
-
+Once done you can Press 'q' to stop the webcam 
 Output
 
 The program displays:
