@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/pose-detection-hand-raise.git
+git clone https://github.com/Yashwanthini1/pose-detection-hand-raise.git
 
 Navigate to the project folder:
 
